@@ -1,0 +1,9 @@
+{
+  "title": "The Background Equations of Kaku's Membrane Sigma Model Are Not Integrable",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "description": "The two-loop background equations of Kaku's bosonic membrane sigma model (Phys. Rev. D 61, 085025, 2000) force F^2 to be constant on every solution, which excludes the membrane solution and the Freund-Rubin vacua; the one-loop system called inconsistent there is integrable; and the two-loop sunset integral has a pole at d = 3 in dimensional regularization.",
+  "creators": [{"name": "Bhattacharjee, Deep", "orcid": "0000-0003-0466-750X"}],
+  "keywords": ["membrane sigma model", "eleven-dimensional supergravity", "dimensional regularization"],
+  "license": "MIT"
+}
